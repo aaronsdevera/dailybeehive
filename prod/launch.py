@@ -1,7 +1,7 @@
 from datetime import datetime
 import twitter
 
-KEYS = [consumer_key,consumer_secret,token_key,token_secret]
+from twitter_api_keys import KEYS
 
 api = twitter.Api(consumer_key=KEYS[0],
                       consumer_secret=KEYS[1],
