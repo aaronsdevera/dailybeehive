@@ -1,5 +1,5 @@
-# Daily Beehive
-An automated daily word puzzle
+# Daily Beehive (@dailybeehive)
+An automated daily word puzzle by @aaronsdevera. Distributed daily on Twitter @dailybeehive. Created with RStudio, Python, and the Twitter API.
 ## Rules
 - Make as many words as possible
 - All words must use the center letter at least once
