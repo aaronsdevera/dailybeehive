@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1448906725115.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4BBD9EC5",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "lexfqvnlaa",
+        "caption" : "cons",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cons&cache_key=lexfqvnlaa",
+        "displayedObservations" : "7",
+        "environment" : "",
+        "object" : "cons",
+        "totalObservations" : "7",
+        "variables" : "4"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

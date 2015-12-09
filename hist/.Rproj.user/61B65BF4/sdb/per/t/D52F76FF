@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1449621988813.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D52F76FF",
+    "lastKnownWriteTime" : 288231475663340032,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "jhsypkcg99",
+        "caption" : "cen.freq",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cen.freq&cache_key=jhsypkcg99",
+        "displayedObservations" : 7,
+        "environment" : "",
+        "object" : "cen.freq",
+        "totalObservations" : 7,
+        "variables" : 2
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

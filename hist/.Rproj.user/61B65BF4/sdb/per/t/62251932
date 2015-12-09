@@ -1,0 +1,18 @@
+{
+    "contents" : "cen.freq[,2]\nmean(cen.freq[,2])\n\ncons\ncen\n",
+    "created" : 1448823652350.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3964483804",
+    "id" : "62251932",
+    "lastKnownWriteTime" : 1448908054,
+    "path" : "~/Documents/engineering/hive/killlist.R",
+    "project_path" : "killlist.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
