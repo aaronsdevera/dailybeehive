@@ -1,7 +1,7 @@
 import random
 from freq import freq
 from cons import cons
-from vowels import vowels
+from lib_vowels import lib_vowels
 
 def get_rand_letter(type):
 	if type == 'all':
@@ -15,7 +15,7 @@ def get_rand_letter(type):
 		x = random.random() * 5
 		xmod = x % 1
 		select = int(x-xmod)
-		selection = vowels[select]
+		selection = lib_vowels[select]
 		
 	if type == 'cons':
 

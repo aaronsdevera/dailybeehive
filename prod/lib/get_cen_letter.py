@@ -1,6 +1,5 @@
 from get_rand_letter import *
 
-
 def get_cen_letter():
 	rep = True
 	

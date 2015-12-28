@@ -1,6 +1,5 @@
 from get_rand_letter import *
 
-
 def get_cons_letters(amt):
 	rep = True
 	while rep == True:
