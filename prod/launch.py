@@ -88,7 +88,7 @@ def main():
 	hive[1]=' ___/  '+str(hive_let[0])+'  \___' + '\n'
 	hive[2]='/  '+str(hive_let[1])+'  \___/  '+str(hive_let[2])+'  \\' + '\n'
 	hive[3]='\___/  '+str(hive_cen_let)+'   \___/' + '\n'
-	hive[4]='/  '+str(hive_let[3])+'  \___/  '+str(hive_let[4])+'  \\' + '\n'
+	hive[4]='/  '+str(hive_let[3])+'   \___/  '+str(hive_let[4])+'  \\' + '\n'
 	hive[5]='\___/  '+str(hive_let[5])+'  \___/' + '\n'
 	hive[6]='       \___/' + '\n'
 	bottom_message = 'ALF: ' + str("%.2f" % all_letters_freq_mean) #10 characters
@@ -129,7 +129,7 @@ if __name__ == '__main__':
     from get_vow_letters import *
     from get_cons_letters import *
     from check_letter import *
-    from vowels import *
+    from lib_vowels import lib_vowels as vowels
 
     import time
     date = time.strftime("%x")
