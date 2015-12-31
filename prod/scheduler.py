@@ -17,10 +17,23 @@ def job():
     try:
         #os.chdir("./prod/")
         #os.chdir("/home/pi/dailybeehive/")
-        os.system('rm launch.py')
+        os.system('rm launch.py dropbox')
         os.system("wget https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/prod/launch.py")
-        os.system("python launch.py")
-        logging.info("Tweet posted")
+        os.system("wget https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/prod/dropbox")
+
+        arg = ""
+        with open('dropbox') as f:
+            arg = "'"+f.read()+"'"
+            f.close()  
+        if len(arg) > 42:
+            os.system("python launch.py")
+            logging.info("Tweet posted without arg")
+        if arg[:4] == "nil" or arg[:4] == "Nil" or arg == "" or arg == "''" or arg[:6] == "'nil'" or arg[:4] == "'Nil'":
+            os.system("python launch.py")
+            logging.info("Tweet posted without arg")
+        else:
+            os.system("python launch.py" + arg)
+            logging.info("Tweet posted with arg")
         os.system("rm -rf *.pyc /lib/*.pyc")
     except:
         logging.error("Post job aborted: Error")

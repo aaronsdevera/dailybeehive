@@ -49,6 +49,7 @@ def main():
             repeat = True
         else:
             repeat = False
+            sys.exit
         
 	all_letters_freq = 0
 	for each in all_letters:
@@ -81,22 +82,30 @@ def main():
 	#print hive_let
 	hive_cen_let = center[0]
     
-	
-	top_message = 'Beehive for ' + date + ':' + '\n' #20 characters
-	hive = [0] * 7
-	hive[0]='        ___' + '\n'
-	hive[1]=' ___/  '+str(hive_let[0])+'  \___' + '\n'
-	hive[2]='/  '+str(hive_let[1])+'  \___/  '+str(hive_let[2])+'  \\' + '\n'
-	hive[3]='\___/  '+str(hive_cen_let)+'   \___/' + '\n'
-	hive[4]='/  '+str(hive_let[3])+'  \___/  '+str(hive_let[4])+'  \\' + '\n'
-	hive[5]='\___/  '+str(hive_let[5])+'  \___/' + '\n'
-	hive[6]='       \___/' + '\n'
-	bottom_message = 'ALF: ' + str("%.2f" % all_letters_freq_mean) #10 characters
-	
-	
-	payload = top_message + hive[0] + hive [1] + hive[2] + hive[3] + hive[4] + hive[5] + hive[6] + bottom_message
-	
-	status = api.PostUpdate(payload)
+	# 140 character limit
+    
+    #22 characters
+	header = 'Beehive for ' + date + ':' + '\n'
+        
+    # 69 characters
+	hive = [0] * 6
+	hive[0]='   \   '+str(hive_let[0]).upper()+'   /' + '\n'
+	hive[1]=str(hive_let[1]).upper()+'   \    /   '+str(hive_let[2]).upper() + '\n'
+	hive[2]='---(  '+str(hive_cen_let).upper()+'  )---' + '\n'
+	hive[3]=str(hive_let[3]).upper()+'   /    \   '+str(hive_let[4]).upper() + '\n'
+	hive[4]='   /   '+str(hive_let[5]).upper()+'   \\'
+    
+    # 9 characters
+	footer = '\nALF: ' + str("%.2f" % all_letters_freq_mean)
+	# 40 character possbility for top message
+    if len(sys.argv) > 1:
+        cmd = sys.argv[1]
+        top_message = cmd
+        payload = top_message + '\n' + header + hive[0] + hive [1] + hive[2] + hive[3] + hive[4] + footer        
+    else:
+        payload = header + hive[0] + hive [1] + hive[2] + hive[3] + hive[4] + footer
+    print payload
+    status = api.PostUpdate(payload)
     
     # Logger
 
@@ -104,7 +113,7 @@ def main():
         import time
         import datetime
         timestamp = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')
-        logfile.write('time:'+timestamp+',center:'+str(center)+',vowels:'+str(vowels)+',consonants:'+str(consonants)+',all_letters:'+str(all_letters)+',freq_mean:'+str(all_letters_freq_mean))
+        logfile.write('time:'+timestamp+',center:'+str(center)+',vowels:'+str(vowels)+',consonants:'+str(consonants)+',all_letters:'+str(all_letters)+',freq_mean:'+str(all_letters_freq_mean)+'\n')
 
 if __name__ == '__main__':
 
