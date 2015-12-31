@@ -4,7 +4,7 @@ import logging
 import time
 import os
 
-logging.basicConfig(filename='db.log', level=logging.INFO,format='%(asctime)s %(message)s')
+logging.basicConfig(filename='scheduler.log', level=logging.INFO,format='%(asctime)s %(message)s')
 
 import twitter
 from twitter_api_keys import KEYS
