@@ -109,7 +109,7 @@ def main():
     
     # Logger
 
-    with open('server.log', 'a') as logfile:
+    with open('launch.log', 'a') as logfile:
         import time
         import datetime
         timestamp = datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')
