@@ -32,7 +32,7 @@ def job():
             os.system("python launch.py")
             logging.info("Tweet posted without arg")
         else:
-            os.system("python launch.py" + arg)
+            os.system("python launch.py " + arg)
             logging.info("Tweet posted with arg")
         os.system("rm -rf *.pyc /lib/*.pyc")
     except:
