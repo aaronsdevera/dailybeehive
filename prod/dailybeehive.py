@@ -76,14 +76,13 @@ def solve(opts,msg):
                     return 0
             return 1
         
+        for line in f:
             for line in f:
-                for line in f:
-                    word=line.strip()
-                    if anagramchk(word,letter_anag):
-                        
-                            uncheck_words.append(word)
+                word=line.strip()
+                if anagramchk(word,letter_anag):
+                    uncheck_words.append(word)
         f.close()
-        print uncheck_words
+
         logging.info('SUCCEEDED: Unchecked word solutions.')
         logging.info('Operation started: Checking word solutions for reqs.')
         
@@ -94,7 +93,6 @@ def solve(opts,msg):
             if target_letter & set(each):
                 words.append(each)
         
-        print words
         solutions_file = './solutions/beehive'+str(date.replace('/',''))+'.txt'
         
         f=open(solutions_file, 'w')  
@@ -105,7 +103,7 @@ def solve(opts,msg):
             f.write(each+'\n')
         f.close()
         
-        logging.info('SUCCEEDED: Solution generation.')
+        logging.info('SUCCEEDED: Solution generation accounting for reqs.')
         
         logging.info('Operation started: Uploading solution via git')
         
@@ -118,7 +116,7 @@ def solve(opts,msg):
     if opts['twitter']:
         logging.info('Operation started: Twitter publication.')
         
-        payload+='Solved: https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/prod/solutions/beehive'+str(date.replace('/',''))+'.txt'
+        payload+='\nSolved: https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/prod/solutions/beehive'+str(date.replace('/',''))+'.txt'
         
         import twitter
         from twitter_api_keys import KEYS
@@ -129,15 +127,12 @@ def solve(opts,msg):
                         access_token_secret=KEYS[3])
 
         status = api.PostUpdate(payload)
-
-    if opts['automate']:
-        logging.info('Operation started: automation.')
+        logging.info('SUCCEEDED: Posted to Twitter.')
         
-        logging.info('SUCCEEDED: Automation operation.')
-
 # Update with git
+logging.info('Operation started: Patching with git...')
 os.system('git pull')
-
+logging.info('SUCCEEDED: Latest version active.')
 
 # Args
 parser = argparse.ArgumentParser(description='Daily Beehive, an autmated word puzzle.')
@@ -145,7 +140,6 @@ parser.add_argument('-g','--generate', help='Generate a puzzle in a list output'
 parser.add_argument('-p','--publish', help='Publish a puzzle in ASCII', required=False, action='store_true')
 parser.add_argument('-s','--solution', help='Provide solution link', required=False, action='store_true')
 parser.add_argument('-t','--twitter', help='Publish list to Twitter', required=False, action='store_true')
-parser.add_argument('-a','--automate', help='Automate puzzle generation', required=False, action='store_true')
 args = vars(parser.parse_args())
 
 # Dropbox for top message
