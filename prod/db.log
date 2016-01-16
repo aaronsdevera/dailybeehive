@@ -1,0 +1,485 @@
+2016-01-15 20:01:33,930 Operation started: generation.
+2016-01-15 20:02:48,006 Operation started: generation.
+2016-01-15 20:03:06,747 Operation started: generation.
+2016-01-15 20:03:31,070 Operation started: generation.
+2016-01-15 20:03:35,560 Operation started: generation.
+2016-01-15 20:03:53,299 Operation started: generation.
+2016-01-15 20:03:55,581 Operation started: generation.
+2016-01-15 20:04:05,329 Operation started: generation.
+2016-01-15 21:21:14,929 Operation started: generation.
+2016-01-15 21:25:10,223 Operation started: generation.
+2016-01-15 21:25:30,880 Operation started: generation.
+2016-01-15 21:25:37,846 Operation started: generation.
+2016-01-15 21:27:36,624 Operation started: generation.
+2016-01-15 21:28:05,973 Operation started: generation.
+2016-01-15 21:28:08,714 Operation started: generation.
+2016-01-15 21:28:09,711 Operation started: generation.
+2016-01-15 21:28:23,289 Operation started: generation.
+2016-01-15 21:28:24,882 Operation started: generation.
+2016-01-15 21:28:26,570 Operation started: generation.
+2016-01-15 21:28:27,687 Operation started: generation.
+2016-01-15 21:28:28,727 Operation started: generation.
+2016-01-15 21:28:29,788 Operation started: generation.
+2016-01-15 21:28:30,932 Operation started: generation.
+2016-01-15 21:28:32,840 Operation started: generation.
+2016-01-15 21:28:33,728 Operation started: generation.
+2016-01-15 21:28:34,694 Operation started: generation.
+2016-01-15 21:28:35,513 Operation started: generation.
+2016-01-15 21:28:36,315 Operation started: generation.
+2016-01-15 21:28:37,070 Operation started: generation.
+2016-01-15 21:28:37,753 Operation started: generation.
+2016-01-15 21:28:38,278 Operation started: generation.
+2016-01-15 21:28:38,775 Operation started: generation.
+2016-01-15 21:28:39,230 Operation started: generation.
+2016-01-15 21:28:39,705 Operation started: generation.
+2016-01-15 21:52:28,141 Operation started: generation.
+2016-01-15 21:53:53,823 Operation started: generation.
+2016-01-15 21:55:21,525 Operation started: generation.
+2016-01-15 21:56:19,716 Operation started: generation.
+2016-01-15 22:01:48,634 Operation started: generation.
+2016-01-15 22:02:09,279 Operation started: generation.
+2016-01-15 22:02:31,724 Operation started: generation.
+2016-01-15 22:02:42,515 Operation started: generation.
+2016-01-15 22:12:14,102 Operation started: generation.
+2016-01-15 22:14:12,587 Operation started: generation.
+2016-01-15 22:14:47,107 Operation started: generation.
+2016-01-15 22:18:53,302 Operation started: generation.
+2016-01-15 22:20:20,907 Operation started: generation.
+2016-01-15 22:20:23,810 Operation started: generation.
+2016-01-15 22:28:22,917 Connecting to Github for message dropbox.
+2016-01-15 22:28:23,547 Message processed from message dropbox.
+2016-01-15 22:28:23,547 Operation started: generation.
+2016-01-15 22:31:39,498 Connecting to Github for message dropbox.
+2016-01-15 22:31:40,026 Message processed from message dropbox.
+2016-01-15 22:31:40,026 Operation started: generation.
+2016-01-15 22:38:14,486 Connecting to Github for message dropbox.
+2016-01-15 22:38:15,096 Message processed from message dropbox.
+2016-01-15 22:38:15,096 Operation started: generation.
+2016-01-15 22:38:15,104 Main args solved.
+2016-01-15 22:38:15,108 Folder hierarchy cleaned.
+2016-01-15 22:38:18,854 Connecting to Github for message dropbox.
+2016-01-15 22:38:19,002 Message processed from message dropbox.
+2016-01-15 22:38:19,002 Operation started: generation.
+2016-01-15 22:38:19,014 Main args solved.
+2016-01-15 22:38:19,019 Folder hierarchy cleaned.
+2016-01-15 22:39:13,000 Connecting to Github for message dropbox.
+2016-01-15 22:39:13,174 Message processed from message dropbox.
+2016-01-15 22:39:13,174 Operation started: generation.
+2016-01-15 22:39:13,186 Main args solved.
+2016-01-15 22:39:13,192 Folder hierarchy cleaned.
+2016-01-15 23:02:44,780 Connecting to Github for message dropbox.
+2016-01-15 23:02:45,481 Message processed from message dropbox.
+2016-01-15 23:02:45,482 Operation started: generation.
+2016-01-15 23:02:45,490 Main args solved.
+2016-01-15 23:02:45,494 Folder hierarchy cleaned.
+2016-01-15 23:03:56,331 Connecting to Github for message dropbox.
+2016-01-15 23:03:56,447 Message processed from message dropbox.
+2016-01-15 23:03:56,447 Operation started: generation.
+2016-01-15 23:03:56,456 Operation started: Twitter publication.
+2016-01-15 23:05:46,081 Connecting to Github for message dropbox.
+2016-01-15 23:05:46,205 Message processed from message dropbox.
+2016-01-15 23:05:46,205 Operation started: generation.
+2016-01-15 23:05:46,210 Operation started: Twitter publication.
+2016-01-15 23:05:46,466 Starting new HTTPS connection (1): api.twitter.com
+2016-01-15 23:05:47,309 Main args solved.
+2016-01-15 23:05:47,313 Folder hierarchy cleaned.
+2016-01-15 23:06:26,359 Connecting to Github for message dropbox.
+2016-01-15 23:06:26,499 Message processed from message dropbox.
+2016-01-15 23:06:26,499 Operation started: generation.
+2016-01-15 23:06:26,510 Operation started: Twitter publication.
+2016-01-15 23:06:26,961 Starting new HTTPS connection (1): api.twitter.com
+2016-01-15 23:06:27,744 Main args solved.
+2016-01-15 23:06:27,749 Folder hierarchy cleaned.
+2016-01-15 23:08:07,840 Connecting to Github for message dropbox.
+2016-01-15 23:08:08,309 Message processed from message dropbox.
+2016-01-15 23:08:08,309 Operation started: generation.
+2016-01-15 23:08:08,319 Operation started: Twitter publication.
+2016-01-15 23:08:17,178 Connecting to Github for message dropbox.
+2016-01-15 23:08:17,254 Message processed from message dropbox.
+2016-01-15 23:08:17,254 Operation started: generation.
+2016-01-15 23:08:17,262 Main args solved.
+2016-01-15 23:08:17,267 Folder hierarchy cleaned.
+2016-01-15 23:08:41,650 Connecting to Github for message dropbox.
+2016-01-15 23:08:41,842 Message processed from message dropbox.
+2016-01-15 23:08:41,842 Operation started: generation.
+2016-01-15 23:08:41,850 Main args solved.
+2016-01-15 23:08:41,860 Folder hierarchy cleaned.
+2016-01-15 23:39:23,924 Connecting to Github for message dropbox.
+2016-01-15 23:39:24,560 Message processed from message dropbox.
+2016-01-15 23:39:24,560 Operation started: generation.
+2016-01-15 23:39:24,568 SUCCEEDED: puzzle generation.
+2016-01-15 23:39:24,568 SUCCEEDED: Twitter publication.
+2016-01-15 23:39:24,568 Operation started: solution generation.
+2016-01-15 23:39:40,598 Connecting to Github for message dropbox.
+2016-01-15 23:39:41,293 Message processed from message dropbox.
+2016-01-15 23:39:41,293 Operation started: generation.
+2016-01-15 23:39:41,301 SUCCEEDED: puzzle generation.
+2016-01-15 23:39:41,301 SUCCEEDED: Twitter publication.
+2016-01-15 23:39:41,301 Operation started: solution generation.
+2016-01-15 23:39:53,619 Connecting to Github for message dropbox.
+2016-01-15 23:39:53,746 Message processed from message dropbox.
+2016-01-15 23:39:53,746 Operation started: generation.
+2016-01-15 23:39:53,754 SUCCEEDED: puzzle generation.
+2016-01-15 23:39:53,754 SUCCEEDED: Twitter publication.
+2016-01-15 23:39:53,754 Operation started: solution generation.
+2016-01-15 23:43:43,160 Connecting to Github for message dropbox.
+2016-01-15 23:43:43,727 Message processed from message dropbox.
+2016-01-15 23:43:43,728 Operation started: generation.
+2016-01-15 23:43:43,733 SUCCEEDED: puzzle generation.
+2016-01-15 23:43:43,733 SUCCEEDED: Twitter publication.
+2016-01-15 23:43:43,733 Operation started: solution generation.
+2016-01-15 23:44:51,029 Connecting to Github for message dropbox.
+2016-01-15 23:44:51,191 Message processed from message dropbox.
+2016-01-15 23:44:51,191 Operation started: generation.
+2016-01-15 23:44:51,196 SUCCEEDED: puzzle generation.
+2016-01-15 23:44:51,198 SUCCEEDED: Twitter publication.
+2016-01-15 23:44:51,198 Operation started: solution generation.
+2016-01-15 23:44:51,198 Main args solved.
+2016-01-15 23:44:51,223 Folder hierarchy cleaned.
+2016-01-15 23:47:08,434 Connecting to Github for message dropbox.
+2016-01-15 23:47:08,981 Message processed from message dropbox.
+2016-01-15 23:47:08,981 Operation started: generation.
+2016-01-15 23:47:08,990 SUCCEEDED: puzzle generation.
+2016-01-15 23:47:08,990 SUCCEEDED: Twitter publication.
+2016-01-15 23:47:08,990 Operation started: solution generation.
+2016-01-15 23:47:08,990 Main args solved.
+2016-01-15 23:47:09,000 Folder hierarchy cleaned.
+2016-01-15 23:47:36,358 Connecting to Github for message dropbox.
+2016-01-15 23:47:36,496 Message processed from message dropbox.
+2016-01-15 23:47:36,496 Operation started: generation.
+2016-01-15 23:47:36,508 SUCCEEDED: puzzle generation.
+2016-01-15 23:47:36,508 SUCCEEDED: Twitter publication.
+2016-01-15 23:47:36,508 Operation started: solution generation.
+2016-01-15 23:47:36,508 Main args solved.
+2016-01-15 23:47:36,520 Folder hierarchy cleaned.
+2016-01-15 23:50:15,513 Connecting to Github for message dropbox.
+2016-01-15 23:50:15,700 Message processed from message dropbox.
+2016-01-15 23:50:15,700 Operation started: generation.
+2016-01-15 23:50:15,708 SUCCEEDED: puzzle generation.
+2016-01-15 23:50:15,708 SUCCEEDED: Twitter publication.
+2016-01-15 23:50:15,709 Operation started: solution generation.
+2016-01-15 23:50:15,709 Main args solved.
+2016-01-15 23:50:15,717 Folder hierarchy cleaned.
+2016-01-15 23:50:29,294 Connecting to Github for message dropbox.
+2016-01-15 23:50:29,820 Message processed from message dropbox.
+2016-01-15 23:50:29,820 Operation started: generation.
+2016-01-15 23:50:29,830 SUCCEEDED: puzzle generation.
+2016-01-15 23:50:29,830 SUCCEEDED: Twitter publication.
+2016-01-15 23:50:29,830 Operation started: solution generation.
+2016-01-15 23:50:29,830 Main args solved.
+2016-01-15 23:50:29,843 Folder hierarchy cleaned.
+2016-01-15 23:51:38,861 Connecting to Github for message dropbox.
+2016-01-15 23:51:39,039 Message processed from message dropbox.
+2016-01-15 23:51:39,039 Operation started: generation.
+2016-01-15 23:51:39,047 SUCCEEDED: puzzle generation.
+2016-01-15 23:51:39,047 SUCCEEDED: Twitter publication.
+2016-01-15 23:51:39,047 Operation started: solution generation.
+2016-01-15 23:51:39,047 Main args solved.
+2016-01-15 23:51:39,060 Folder hierarchy cleaned.
+2016-01-15 23:53:20,167 Connecting to Github for message dropbox.
+2016-01-15 23:53:20,298 Message processed from message dropbox.
+2016-01-15 23:53:20,298 Operation started: generation.
+2016-01-15 23:53:20,306 SUCCEEDED: puzzle generation.
+2016-01-15 23:53:20,307 SUCCEEDED: Twitter publication.
+2016-01-15 23:53:20,307 Operation started: solution generation.
+2016-01-15 23:53:20,307 Main args solved.
+2016-01-15 23:53:20,321 Folder hierarchy cleaned.
+2016-01-15 23:54:34,653 Connecting to Github for message dropbox.
+2016-01-15 23:54:34,808 Message processed from message dropbox.
+2016-01-15 23:54:34,808 Operation started: generation.
+2016-01-15 23:54:34,817 SUCCEEDED: puzzle generation.
+2016-01-15 23:54:34,817 SUCCEEDED: Twitter publication.
+2016-01-15 23:54:34,818 Operation started: solution generation.
+2016-01-15 23:55:04,999 Connecting to Github for message dropbox.
+2016-01-15 23:55:05,172 Message processed from message dropbox.
+2016-01-15 23:55:05,172 Operation started: generation.
+2016-01-15 23:55:05,179 SUCCEEDED: puzzle generation.
+2016-01-15 23:55:05,179 SUCCEEDED: Twitter publication.
+2016-01-15 23:55:05,179 Operation started: solution generation.
+2016-01-15 23:56:23,624 Connecting to Github for message dropbox.
+2016-01-15 23:56:24,176 Message processed from message dropbox.
+2016-01-15 23:56:24,176 Operation started: generation.
+2016-01-15 23:56:24,182 SUCCEEDED: puzzle generation.
+2016-01-15 23:56:24,182 SUCCEEDED: Twitter publication.
+2016-01-15 23:56:24,182 Operation started: solution generation.
+2016-01-15 23:56:59,076 Connecting to Github for message dropbox.
+2016-01-15 23:56:59,271 Message processed from message dropbox.
+2016-01-15 23:56:59,271 Operation started: generation.
+2016-01-15 23:56:59,276 SUCCEEDED: puzzle generation.
+2016-01-15 23:56:59,276 SUCCEEDED: Twitter publication.
+2016-01-15 23:56:59,276 Operation started: solution generation.
+2016-01-15 23:58:43,778 Connecting to Github for message dropbox.
+2016-01-15 23:58:43,886 Message processed from message dropbox.
+2016-01-15 23:58:43,887 Operation started: generation.
+2016-01-15 23:58:43,893 SUCCEEDED: puzzle generation.
+2016-01-15 23:58:43,893 SUCCEEDED: Twitter publication.
+2016-01-15 23:58:43,893 Operation started: solution generation.
+2016-01-16 00:00:02,071 Connecting to Github for message dropbox.
+2016-01-16 00:00:02,262 Message processed from message dropbox.
+2016-01-16 00:00:02,263 Operation started: generation.
+2016-01-16 00:00:02,268 SUCCEEDED: puzzle generation.
+2016-01-16 00:00:02,268 SUCCEEDED: Twitter publication.
+2016-01-16 00:00:02,268 Operation started: solution generation.
+2016-01-16 00:00:08,139 Connecting to Github for message dropbox.
+2016-01-16 00:00:08,231 Message processed from message dropbox.
+2016-01-16 00:00:08,231 Operation started: generation.
+2016-01-16 00:00:08,236 SUCCEEDED: puzzle generation.
+2016-01-16 00:00:08,236 SUCCEEDED: Twitter publication.
+2016-01-16 00:00:08,236 Operation started: solution generation.
+2016-01-16 00:00:09,073 SUCCEEDED: Solution generation.
+2016-01-16 00:00:09,074 Main args solved.
+2016-01-16 00:00:09,083 Folder hierarchy cleaned.
+2016-01-16 00:00:10,610 Connecting to Github for message dropbox.
+2016-01-16 00:00:10,684 Message processed from message dropbox.
+2016-01-16 00:00:10,685 Operation started: generation.
+2016-01-16 00:00:10,697 SUCCEEDED: puzzle generation.
+2016-01-16 00:00:10,697 SUCCEEDED: Twitter publication.
+2016-01-16 00:00:10,697 Operation started: solution generation.
+2016-01-16 00:00:11,494 SUCCEEDED: Solution generation.
+2016-01-16 00:00:11,495 Main args solved.
+2016-01-16 00:00:11,503 Folder hierarchy cleaned.
+2016-01-16 00:00:50,632 Connecting to Github for message dropbox.
+2016-01-16 00:00:50,733 Message processed from message dropbox.
+2016-01-16 00:00:50,734 Operation started: generation.
+2016-01-16 00:00:50,747 SUCCEEDED: puzzle generation.
+2016-01-16 00:00:50,748 SUCCEEDED: Twitter publication.
+2016-01-16 00:00:50,748 Operation started: solution generation.
+2016-01-16 00:00:55,692 Connecting to Github for message dropbox.
+2016-01-16 00:00:55,768 Message processed from message dropbox.
+2016-01-16 00:00:55,768 Operation started: generation.
+2016-01-16 00:00:55,774 SUCCEEDED: puzzle generation.
+2016-01-16 00:00:55,774 SUCCEEDED: Twitter publication.
+2016-01-16 00:00:55,774 Operation started: solution generation.
+2016-01-16 00:01:28,341 Connecting to Github for message dropbox.
+2016-01-16 00:01:28,450 Message processed from message dropbox.
+2016-01-16 00:01:28,450 Operation started: generation.
+2016-01-16 00:01:28,458 SUCCEEDED: puzzle generation.
+2016-01-16 00:01:28,458 SUCCEEDED: Twitter publication.
+2016-01-16 00:01:28,458 Operation started: solution generation.
+2016-01-16 00:01:29,875 Connecting to Github for message dropbox.
+2016-01-16 00:01:29,972 Message processed from message dropbox.
+2016-01-16 00:01:29,972 Operation started: generation.
+2016-01-16 00:01:29,981 SUCCEEDED: puzzle generation.
+2016-01-16 00:01:29,982 SUCCEEDED: Twitter publication.
+2016-01-16 00:01:29,982 Operation started: solution generation.
+2016-01-16 00:01:30,791 SUCCEEDED: Solution generation.
+2016-01-16 00:01:30,791 Main args solved.
+2016-01-16 00:01:30,803 Folder hierarchy cleaned.
+2016-01-16 00:02:27,695 Connecting to Github for message dropbox.
+2016-01-16 00:02:27,840 Message processed from message dropbox.
+2016-01-16 00:02:27,840 Operation started: generation.
+2016-01-16 00:02:27,854 SUCCEEDED: puzzle generation.
+2016-01-16 00:02:27,854 SUCCEEDED: Twitter publication.
+2016-01-16 00:02:27,854 Operation started: solution generation.
+2016-01-16 00:02:28,911 SUCCEEDED: Solution generation.
+2016-01-16 00:02:28,922 Main args solved.
+2016-01-16 00:02:28,931 Folder hierarchy cleaned.
+2016-01-16 00:03:16,165 Connecting to Github for message dropbox.
+2016-01-16 00:03:16,287 Message processed from message dropbox.
+2016-01-16 00:03:16,287 Operation started: generation.
+2016-01-16 00:03:16,295 SUCCEEDED: puzzle generation.
+2016-01-16 00:03:16,295 SUCCEEDED: Twitter publication.
+2016-01-16 00:03:16,295 Operation started: solution generation.
+2016-01-16 00:03:16,327 SUCCEEDED: Solution generation.
+2016-01-16 00:03:16,327 Main args solved.
+2016-01-16 00:03:16,335 Folder hierarchy cleaned.
+2016-01-16 00:03:37,838 Connecting to Github for message dropbox.
+2016-01-16 00:03:38,039 Message processed from message dropbox.
+2016-01-16 00:03:38,040 Operation started: generation.
+2016-01-16 00:03:38,050 SUCCEEDED: puzzle generation.
+2016-01-16 00:03:38,050 SUCCEEDED: Twitter publication.
+2016-01-16 00:03:38,051 Operation started: solution generation.
+2016-01-16 00:03:38,452 SUCCEEDED: Solution generation.
+2016-01-16 00:03:38,452 Main args solved.
+2016-01-16 00:03:38,462 Folder hierarchy cleaned.
+2016-01-16 00:09:08,661 Connecting to Github for message dropbox.
+2016-01-16 00:09:08,824 Message processed from message dropbox.
+2016-01-16 00:09:08,825 Operation started: generation.
+2016-01-16 00:09:08,838 SUCCEEDED: puzzle generation.
+2016-01-16 00:09:08,838 SUCCEEDED: Twitter publication.
+2016-01-16 00:09:08,838 Operation started: solution generation.
+2016-01-16 00:09:08,944 SUCCEEDED: Solution generation.
+2016-01-16 00:09:08,944 Main args solved.
+2016-01-16 00:09:08,952 Folder hierarchy cleaned.
+2016-01-16 00:13:06,830 Connecting to Github for message dropbox.
+2016-01-16 00:13:07,007 Message processed from message dropbox.
+2016-01-16 00:13:07,008 Operation started: generation.
+2016-01-16 00:13:07,018 SUCCEEDED: puzzle generation.
+2016-01-16 00:13:07,018 SUCCEEDED: Twitter publication.
+2016-01-16 00:13:07,018 Operation started: solution generation.
+2016-01-16 00:13:07,133 SUCCEEDED: Solution generation.
+2016-01-16 00:13:07,133 Main args solved.
+2016-01-16 00:13:07,142 Folder hierarchy cleaned.
+2016-01-16 00:14:16,628 Connecting to Github for message dropbox.
+2016-01-16 00:14:16,794 Message processed from message dropbox.
+2016-01-16 00:14:16,794 Operation started: generation.
+2016-01-16 00:14:16,802 SUCCEEDED: puzzle generation.
+2016-01-16 00:14:16,802 SUCCEEDED: Twitter publication.
+2016-01-16 00:14:16,802 Operation started: solution generation.
+2016-01-16 00:14:40,332 Connecting to Github for message dropbox.
+2016-01-16 00:14:40,534 Message processed from message dropbox.
+2016-01-16 00:14:40,535 Operation started: generation.
+2016-01-16 00:14:40,540 SUCCEEDED: puzzle generation.
+2016-01-16 00:14:40,540 SUCCEEDED: Twitter publication.
+2016-01-16 00:14:40,540 Operation started: solution generation.
+2016-01-16 00:15:15,351 Connecting to Github for message dropbox.
+2016-01-16 00:15:15,863 Message processed from message dropbox.
+2016-01-16 00:15:15,863 Operation started: generation.
+2016-01-16 00:15:15,868 SUCCEEDED: puzzle generation.
+2016-01-16 00:15:15,868 SUCCEEDED: Twitter publication.
+2016-01-16 00:15:15,869 Operation started: solution generation.
+2016-01-16 00:15:30,997 Connecting to Github for message dropbox.
+2016-01-16 00:15:31,461 Message processed from message dropbox.
+2016-01-16 00:15:31,461 Operation started: generation.
+2016-01-16 00:15:31,469 SUCCEEDED: puzzle generation.
+2016-01-16 00:15:31,469 SUCCEEDED: Twitter publication.
+2016-01-16 00:15:31,469 Operation started: solution generation.
+2016-01-16 00:15:35,507 Connecting to Github for message dropbox.
+2016-01-16 00:15:35,853 Message processed from message dropbox.
+2016-01-16 00:15:35,853 Operation started: generation.
+2016-01-16 00:15:35,858 SUCCEEDED: puzzle generation.
+2016-01-16 00:15:35,858 SUCCEEDED: Twitter publication.
+2016-01-16 00:15:35,858 Operation started: solution generation.
+2016-01-16 00:16:02,728 Connecting to Github for message dropbox.
+2016-01-16 00:16:03,261 Message processed from message dropbox.
+2016-01-16 00:16:03,262 Operation started: generation.
+2016-01-16 00:16:03,267 SUCCEEDED: puzzle generation.
+2016-01-16 00:16:03,268 SUCCEEDED: Twitter publication.
+2016-01-16 00:16:03,268 Operation started: solution generation.
+2016-01-16 00:16:26,577 Connecting to Github for message dropbox.
+2016-01-16 00:16:26,684 Message processed from message dropbox.
+2016-01-16 00:16:26,685 Operation started: generation.
+2016-01-16 00:16:26,693 SUCCEEDED: puzzle generation.
+2016-01-16 00:16:26,693 SUCCEEDED: Twitter publication.
+2016-01-16 00:16:26,693 Operation started: solution generation.
+2016-01-16 00:16:26,790 SUCCEEDED: Solution generation.
+2016-01-16 00:16:26,790 Main args solved.
+2016-01-16 00:16:26,798 Folder hierarchy cleaned.
+2016-01-16 00:16:56,017 Connecting to Github for message dropbox.
+2016-01-16 00:16:56,146 Message processed from message dropbox.
+2016-01-16 00:16:56,146 Operation started: generation.
+2016-01-16 00:16:56,156 SUCCEEDED: puzzle generation.
+2016-01-16 00:16:56,156 SUCCEEDED: Twitter publication.
+2016-01-16 00:16:56,156 Operation started: solution generation.
+2016-01-16 00:16:56,265 SUCCEEDED: Solution generation.
+2016-01-16 00:16:56,266 Main args solved.
+2016-01-16 00:16:56,275 Folder hierarchy cleaned.
+2016-01-16 09:03:56,191 Connecting to Github for message dropbox.
+2016-01-16 09:03:56,803 Message processed from message dropbox.
+2016-01-16 09:03:56,803 Operation started: generation.
+2016-01-16 09:03:56,821 SUCCEEDED: puzzle generation.
+2016-01-16 09:03:56,821 SUCCEEDED: Twitter publication.
+2016-01-16 09:03:56,822 Operation started: Twitter publication.
+2016-01-16 09:03:57,021 Starting new HTTPS connection (1): api.twitter.com
+2016-01-16 09:03:57,717 Main args solved.
+2016-01-16 09:03:57,730 Folder hierarchy cleaned.
+2016-01-16 12:13:05,744 Connecting to Github for message dropbox.
+2016-01-16 12:13:06,075 Message processed from message dropbox.
+2016-01-16 12:13:06,075 Operation started: generation.
+2016-01-16 12:13:06,094 SUCCEEDED: puzzle generation.
+2016-01-16 12:13:06,094 SUCCEEDED: Twitter publication.
+2016-01-16 12:13:06,094 Operation started: Twitter publication.
+2016-01-16 12:13:06,256 Starting new HTTPS connection (1): api.twitter.com
+2016-01-16 12:13:06,952 Main args solved.
+2016-01-16 12:13:06,962 Folder hierarchy cleaned.
+2016-01-16 12:13:47,422 Connecting to Github for message dropbox.
+2016-01-16 12:13:47,671 Message processed from message dropbox.
+2016-01-16 12:13:47,671 Operation started: generation.
+2016-01-16 12:13:47,682 SUCCEEDED: puzzle generation.
+2016-01-16 12:13:47,682 SUCCEEDED: Twitter publication.
+2016-01-16 12:13:47,682 Operation started: Twitter publication.
+2016-01-16 12:13:48,194 Starting new HTTPS connection (1): api.twitter.com
+2016-01-16 12:13:48,480 Main args solved.
+2016-01-16 12:13:48,487 Folder hierarchy cleaned.
+2016-01-16 12:15:51,648 Connecting to Github for message dropbox.
+2016-01-16 12:15:51,760 Message processed from message dropbox.
+2016-01-16 12:15:51,761 Operation started: generation.
+2016-01-16 12:15:51,771 SUCCEEDED: puzzle generation.
+2016-01-16 12:15:51,771 SUCCEEDED: Twitter publication.
+2016-01-16 12:15:51,771 Operation started: Twitter publication.
+2016-01-16 12:15:51,893 Starting new HTTPS connection (1): api.twitter.com
+2016-01-16 12:15:52,551 Main args solved.
+2016-01-16 12:15:52,558 Folder hierarchy cleaned.
+2016-01-16 12:16:51,047 Connecting to Github for message dropbox.
+2016-01-16 12:16:51,194 Message processed from message dropbox.
+2016-01-16 12:16:51,194 Operation started: generation.
+2016-01-16 12:16:51,208 SUCCEEDED: puzzle generation.
+2016-01-16 12:16:51,208 SUCCEEDED: Twitter publication.
+2016-01-16 12:16:51,208 Operation started: solution generation.
+2016-01-16 12:16:51,306 SUCCEEDED: Solution generation.
+2016-01-16 12:16:51,306 Main args solved.
+2016-01-16 12:16:51,314 Folder hierarchy cleaned.
+2016-01-16 12:17:17,984 Connecting to Github for message dropbox.
+2016-01-16 12:17:18,118 Message processed from message dropbox.
+2016-01-16 12:17:18,118 Operation started: generation.
+2016-01-16 12:17:18,129 SUCCEEDED: puzzle generation.
+2016-01-16 12:17:18,129 SUCCEEDED: Twitter publication.
+2016-01-16 12:17:18,129 Operation started: solution generation.
+2016-01-16 12:17:18,224 SUCCEEDED: Solution generation.
+2016-01-16 12:17:18,224 Main args solved.
+2016-01-16 12:17:18,233 Folder hierarchy cleaned.
+2016-01-16 12:17:25,543 Connecting to Github for message dropbox.
+2016-01-16 12:17:26,078 Message processed from message dropbox.
+2016-01-16 12:17:26,078 Operation started: generation.
+2016-01-16 12:17:26,089 SUCCEEDED: puzzle generation.
+2016-01-16 12:17:26,089 SUCCEEDED: Twitter publication.
+2016-01-16 12:17:26,089 Operation started: solution generation.
+2016-01-16 12:17:26,179 SUCCEEDED: Solution generation.
+2016-01-16 12:17:26,180 Main args solved.
+2016-01-16 12:17:26,189 Folder hierarchy cleaned.
+2016-01-16 12:18:15,093 Connecting to Github for message dropbox.
+2016-01-16 12:18:15,264 Message processed from message dropbox.
+2016-01-16 12:18:15,264 Operation started: generation.
+2016-01-16 12:18:15,275 SUCCEEDED: puzzle generation.
+2016-01-16 12:18:15,275 SUCCEEDED: Twitter publication.
+2016-01-16 12:18:15,275 Operation started: solution generation.
+2016-01-16 12:18:15,369 SUCCEEDED: Solution generation.
+2016-01-16 12:18:15,369 Main args solved.
+2016-01-16 12:18:15,377 Folder hierarchy cleaned.
+2016-01-16 12:18:22,902 Connecting to Github for message dropbox.
+2016-01-16 12:18:23,008 Message processed from message dropbox.
+2016-01-16 12:18:23,008 Operation started: generation.
+2016-01-16 12:18:23,017 SUCCEEDED: puzzle generation.
+2016-01-16 12:18:23,017 SUCCEEDED: Twitter publication.
+2016-01-16 12:18:23,017 Operation started: solution generation.
+2016-01-16 12:18:23,129 SUCCEEDED: Solution generation.
+2016-01-16 12:18:23,129 Main args solved.
+2016-01-16 12:18:23,137 Folder hierarchy cleaned.
+2016-01-16 12:18:36,768 Connecting to Github for message dropbox.
+2016-01-16 12:18:36,970 Message processed from message dropbox.
+2016-01-16 12:18:36,970 Operation started: generation.
+2016-01-16 12:18:36,979 SUCCEEDED: puzzle generation.
+2016-01-16 12:18:36,979 SUCCEEDED: Twitter publication.
+2016-01-16 12:18:36,979 Operation started: solution generation.
+2016-01-16 12:18:37,086 SUCCEEDED: Solution generation.
+2016-01-16 12:18:37,086 Main args solved.
+2016-01-16 12:18:37,092 Folder hierarchy cleaned.
+2016-01-16 12:19:15,456 Connecting to Github for message dropbox.
+2016-01-16 12:19:15,625 Message processed from message dropbox.
+2016-01-16 12:19:15,625 Operation started: generation.
+2016-01-16 12:19:15,635 SUCCEEDED: puzzle generation.
+2016-01-16 12:19:15,635 SUCCEEDED: Twitter publication.
+2016-01-16 12:19:15,635 Operation started: solution generation.
+2016-01-16 12:19:15,734 SUCCEEDED: Solution generation.
+2016-01-16 12:19:15,734 Main args solved.
+2016-01-16 12:19:15,742 Folder hierarchy cleaned.
+2016-01-16 12:19:20,904 Connecting to Github for message dropbox.
+2016-01-16 12:19:21,060 Message processed from message dropbox.
+2016-01-16 12:19:21,061 Operation started: generation.
+2016-01-16 12:19:21,075 SUCCEEDED: puzzle generation.
+2016-01-16 12:19:21,075 SUCCEEDED: Twitter publication.
+2016-01-16 12:19:21,075 Operation started: solution generation.
+2016-01-16 12:19:21,180 SUCCEEDED: Solution generation.
+2016-01-16 12:19:21,180 Main args solved.
+2016-01-16 12:19:21,188 Folder hierarchy cleaned.
+2016-01-16 12:43:31,434 Connecting to Github for message dropbox.
+2016-01-16 12:43:32,077 Message processed from message dropbox.
+2016-01-16 12:43:32,078 Operation started: generation.
+2016-01-16 12:43:32,089 SUCCEEDED: puzzle generation.
+2016-01-16 12:43:32,089 SUCCEEDED: Twitter publication.
+2016-01-16 12:43:32,089 Operation started: solution generation.
+2016-01-16 12:43:32,194 SUCCEEDED: Solution generation.
+2016-01-16 12:43:32,194 Operation started: Ulpoading solution via git
+2016-01-16 12:43:32,218 SUCCEEDED: Uploaded solutions to GitHub.
+2016-01-16 12:43:32,218 Main args solved.
+2016-01-16 12:43:32,226 Folder hierarchy cleaned.
