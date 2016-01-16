@@ -59,12 +59,13 @@ def solve(opts,msg):
         logging.info('Operation started: solution generation.')
         
         f=open('./lib/wordlist.txt', 'r')
-        words = []
+        uncheck_words = []
         
         letter_anag = ''
         for each in letters:
             letter_anag+=each
             
+        # Can you think of any word with the same letter appearing more than 5 times?
         letter_anag+=letter_anag+letter_anag+letter_anag+letter_anag+letter_anag     
         
         def anagramchk(word,chkword):
@@ -75,14 +76,25 @@ def solve(opts,msg):
                     return 0
             return 1
         
-        for line in f:
             for line in f:
-                word=line.strip()
-                if anagramchk(word,letter_anag):
-                    
-                        words.append(word)
+                for line in f:
+                    word=line.strip()
+                    if anagramchk(word,letter_anag):
+                        
+                            uncheck_words.append(word)
         f.close()
+        print uncheck_words
+        logging.info('SUCCEEDED: Unchecked word solutions.')
+        logging.info('Operation started: Checking word solutions for reqs.')
         
+        words = []
+        
+        target_letter = set(letters[0])
+        for each in uncheck_words:
+            if target_letter & set(each):
+                words.append(each)
+        
+        print words
         solutions_file = './solutions/beehive'+str(date.replace('/',''))+'.txt'
         
         f=open(solutions_file, 'w')  
@@ -95,9 +107,9 @@ def solve(opts,msg):
         
         logging.info('SUCCEEDED: Solution generation.')
         
-        logging.info('Operation started: Ulpoading solution via git')
+        logging.info('Operation started: Uploading solution via git')
         
-        os.system('git add ' + solutions_file)
+        os.system('git add *' + solutions_file)
         os.system('git commit -m "added solutions file"')
         os.system('git push')
         
@@ -106,7 +118,7 @@ def solve(opts,msg):
     if opts['twitter']:
         logging.info('Operation started: Twitter publication.')
         
-        payload+='/nSolved: https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/prod/solutions/beehive'+str(date.replace('/',''))+'.txt'
+        payload+='Solved: https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/prod/solutions/beehive'+str(date.replace('/',''))+'.txt'
         
         import twitter
         from twitter_api_keys import KEYS
@@ -123,6 +135,10 @@ def solve(opts,msg):
         
         logging.info('SUCCEEDED: Automation operation.')
 
+# Update with git
+os.system('git pull')
+
+
 # Args
 parser = argparse.ArgumentParser(description='Daily Beehive, an autmated word puzzle.')
 parser.add_argument('-g','--generate', help='Generate a puzzle in a list output', required=False, action='store_true', default=True)
@@ -133,11 +149,8 @@ parser.add_argument('-a','--automate', help='Automate puzzle generation', requir
 args = vars(parser.parse_args())
 
 # Dropbox for top message
-logging.info('Connecting to Github for message dropbox.')
-os.system('wget https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/prod/dropbox')
 with open('dropbox') as f:
     msg = f.read()
-    #msg = "'"+f.read()+"'"
     logging.info('Message processed from message dropbox.')
     f.close()
     
@@ -147,5 +160,4 @@ logging.info('Main args solved.')
 
 # Clean folder
 os.system('rm -rf *.pyc ./lib/*.pyc')
-os.system('rm -rf dropbox*')
 logging.info('Folder hierarchy cleaned.')
