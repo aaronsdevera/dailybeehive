@@ -131,7 +131,7 @@ def solve(opts,msg):
         
 # Update with git
 logging.info('Operation started: Patching with git...')
-os.system('git pull')
+os.system('git pull origin master')
 logging.info('SUCCEEDED: Latest version active.')
 
 # Args
