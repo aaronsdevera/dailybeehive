@@ -98,7 +98,7 @@ def solve(opts,msg):
         f=open(solutions_file, 'w')  
         f.write('Daily Beehive solution for ' + date + ':\n')
         f.close()
-        f=open('./solutions/beehive'+str(date.replace('/',''))+'.txt', 'a')
+        f=open(solutions_file, 'a')
         for each in words:
             f.write(each+'\n')
         f.close()
@@ -107,7 +107,7 @@ def solve(opts,msg):
         
         logging.info('Operation started: Uploading solution via git')
         
-        os.system('git add *' + solutions_file)
+        os.system('git add ' + solutions_file)
         os.system('git commit -m "added solutions file"')
         os.system('git push origin master')
         
