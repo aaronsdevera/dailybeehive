@@ -109,7 +109,7 @@ def solve(opts,msg):
         
         os.system('git add *' + solutions_file)
         os.system('git commit -m "added solutions file"')
-        os.system('git push')
+        os.system('git push origin master')
         
         logging.info('SUCCEEDED: Uploaded solutions to GitHub.')
        
