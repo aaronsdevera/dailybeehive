@@ -15,3 +15,4 @@ All letters have a frequency that corresponds to how many times statisticians es
 ## Updates
 
 - v1.1 on 1/17/2016
+- v1.2 on 2/02/2016
