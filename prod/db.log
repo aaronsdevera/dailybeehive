@@ -1228,3 +1228,152 @@
 2016-03-19 09:30:32,829 SUCCEEDED: Posted to Twitter.
 2016-03-19 09:30:32,829 Main args solved.
 2016-03-19 09:30:32,832 Folder hierarchy cleaned.
+2016-03-19 09:32:24,089 Operation started: Patching with git...
+2016-03-19 09:32:24,946 SUCCEEDED: Latest version active.
+2016-03-19 09:32:24,948 Message processed from message dropbox.
+2016-03-19 09:32:24,948 Operation started: generation.
+2016-03-19 09:32:24,955 SUCCEEDED: puzzle generation.
+2016-03-19 09:32:24,955 SUCCEEDED: Twitter publication.
+2016-03-19 09:32:24,955 Operation started: solution generation.
+2016-03-19 09:32:25,059 SUCCEEDED: Unchecked word solutions.
+2016-03-19 09:32:25,059 Operation started: Checking word solutions for reqs.
+2016-03-19 09:32:25,061 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-19 09:32:25,061 Operation started: Uploading solution via git
+2016-03-19 09:32:26,392 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-19 09:32:26,392 Operation started: Twitter publication.
+2016-03-19 09:32:26,489 Starting new HTTPS connection (1): api.twitter.com
+2016-03-19 09:32:27,477 SUCCEEDED: Posted to Twitter.
+2016-03-19 09:32:27,477 Main args solved.
+2016-03-19 09:32:27,480 Folder hierarchy cleaned.
+2016-03-20 07:17:13,983 Operation started: Patching with git...
+2016-03-20 07:17:16,001 SUCCEEDED: Latest version active.
+2016-03-20 07:17:16,002 Message processed from message dropbox.
+2016-03-20 07:17:16,002 Operation started: generation.
+2016-03-20 07:17:16,021 SUCCEEDED: puzzle generation.
+2016-03-20 07:17:16,022 SUCCEEDED: Twitter publication.
+2016-03-20 07:17:16,022 Operation started: solution generation.
+2016-03-20 07:17:16,160 SUCCEEDED: Unchecked word solutions.
+2016-03-20 07:17:16,160 Operation started: Checking word solutions for reqs.
+2016-03-20 07:17:16,161 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-20 07:17:16,161 Operation started: Uploading solution via git
+2016-03-20 07:17:17,633 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-20 07:17:17,634 Operation started: Twitter publication.
+2016-03-20 07:17:17,808 Starting new HTTPS connection (1): api.twitter.com
+2016-03-20 07:17:18,798 SUCCEEDED: Posted to Twitter.
+2016-03-20 07:17:18,798 Main args solved.
+2016-03-20 07:17:18,803 Folder hierarchy cleaned.
+2016-03-21 10:14:59,955 Operation started: Patching with git...
+2016-03-21 10:15:02,781 SUCCEEDED: Latest version active.
+2016-03-21 10:15:02,783 Message processed from message dropbox.
+2016-03-21 10:15:02,783 Operation started: generation.
+2016-03-21 10:15:02,794 SUCCEEDED: puzzle generation.
+2016-03-21 10:15:02,794 SUCCEEDED: Twitter publication.
+2016-03-21 10:15:02,794 Operation started: solution generation.
+2016-03-21 10:15:02,896 SUCCEEDED: Unchecked word solutions.
+2016-03-21 10:15:02,896 Operation started: Checking word solutions for reqs.
+2016-03-21 10:15:02,897 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-21 10:15:02,898 Operation started: Uploading solution via git
+2016-03-21 10:15:06,118 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-21 10:15:06,118 Operation started: Twitter publication.
+2016-03-21 10:15:06,258 Starting new HTTPS connection (1): api.twitter.com
+2016-03-21 10:15:07,793 SUCCEEDED: Posted to Twitter.
+2016-03-21 10:15:07,793 Main args solved.
+2016-03-21 10:15:07,798 Folder hierarchy cleaned.
+2016-03-22 07:57:47,342 Operation started: Patching with git...
+2016-03-22 07:57:48,327 SUCCEEDED: Latest version active.
+2016-03-22 07:57:48,328 Message processed from message dropbox.
+2016-03-22 07:57:48,328 Operation started: generation.
+2016-03-22 07:57:48,342 SUCCEEDED: puzzle generation.
+2016-03-22 07:57:48,342 SUCCEEDED: Twitter publication.
+2016-03-22 07:57:48,342 Operation started: solution generation.
+2016-03-22 07:57:48,474 SUCCEEDED: Unchecked word solutions.
+2016-03-22 07:57:48,474 Operation started: Checking word solutions for reqs.
+2016-03-22 07:57:48,476 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-22 07:57:48,476 Operation started: Uploading solution via git
+2016-03-22 07:57:51,338 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-22 07:57:51,338 Operation started: Twitter publication.
+2016-03-22 07:57:51,525 Starting new HTTPS connection (1): api.twitter.com
+2016-03-22 07:57:52,653 SUCCEEDED: Posted to Twitter.
+2016-03-22 07:57:52,653 Main args solved.
+2016-03-22 07:57:52,658 Folder hierarchy cleaned.
+2016-03-23 07:54:31,734 Operation started: Patching with git...
+2016-03-23 07:54:33,822 SUCCEEDED: Latest version active.
+2016-03-23 07:54:33,824 Message processed from message dropbox.
+2016-03-23 07:54:33,824 Operation started: generation.
+2016-03-23 07:54:33,837 SUCCEEDED: puzzle generation.
+2016-03-23 07:54:33,837 SUCCEEDED: Twitter publication.
+2016-03-23 07:54:33,837 Operation started: solution generation.
+2016-03-23 07:54:33,974 SUCCEEDED: Unchecked word solutions.
+2016-03-23 07:54:33,974 Operation started: Checking word solutions for reqs.
+2016-03-23 07:54:33,975 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-23 07:54:33,976 Operation started: Uploading solution via git
+2016-03-23 07:54:35,524 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-23 07:54:35,524 Operation started: Twitter publication.
+2016-03-23 07:54:35,686 Starting new HTTPS connection (1): api.twitter.com
+2016-03-23 07:54:36,404 SUCCEEDED: Posted to Twitter.
+2016-03-23 07:54:36,404 Main args solved.
+2016-03-23 07:54:36,410 Folder hierarchy cleaned.
+2016-03-25 09:34:04,123 Operation started: Patching with git...
+2016-03-25 09:34:05,340 SUCCEEDED: Latest version active.
+2016-03-25 09:34:05,341 Message processed from message dropbox.
+2016-03-25 09:34:05,341 Operation started: generation.
+2016-03-25 09:34:05,353 SUCCEEDED: puzzle generation.
+2016-03-25 09:34:05,353 SUCCEEDED: Twitter publication.
+2016-03-25 09:34:05,353 Operation started: solution generation.
+2016-03-25 09:34:05,451 SUCCEEDED: Unchecked word solutions.
+2016-03-25 09:34:05,451 Operation started: Checking word solutions for reqs.
+2016-03-25 09:34:05,452 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-25 09:34:05,452 Operation started: Uploading solution via git
+2016-03-25 09:34:05,532 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-25 09:34:05,532 Operation started: Twitter publication.
+2016-03-25 09:46:42,720 Operation started: Patching with git...
+2016-03-25 09:46:48,705 SUCCEEDED: Latest version active.
+2016-03-25 09:46:48,706 Message processed from message dropbox.
+2016-03-25 09:46:48,706 Operation started: generation.
+2016-03-25 09:46:48,711 SUCCEEDED: puzzle generation.
+2016-03-25 09:46:48,711 SUCCEEDED: Twitter publication.
+2016-03-25 09:46:48,711 Operation started: solution generation.
+2016-03-25 09:46:48,803 SUCCEEDED: Unchecked word solutions.
+2016-03-25 09:46:48,803 Operation started: Checking word solutions for reqs.
+2016-03-25 09:46:48,804 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-25 09:46:48,804 Operation started: Uploading solution via git
+2016-03-25 09:46:50,483 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-25 09:46:50,483 Operation started: Twitter publication.
+2016-03-25 09:46:50,629 Starting new HTTPS connection (1): api.twitter.com
+2016-03-25 09:46:51,451 SUCCEEDED: Posted to Twitter.
+2016-03-25 09:46:51,451 Main args solved.
+2016-03-25 09:46:51,455 Folder hierarchy cleaned.
+2016-03-25 10:10:01,076 Operation started: Patching with git...
+2016-03-25 10:10:02,022 SUCCEEDED: Latest version active.
+2016-03-25 10:10:02,024 Message processed from message dropbox.
+2016-03-25 10:10:02,024 Operation started: generation.
+2016-03-25 10:10:02,032 SUCCEEDED: puzzle generation.
+2016-03-25 10:10:02,032 SUCCEEDED: Twitter publication.
+2016-03-25 10:10:02,032 Operation started: solution generation.
+2016-03-25 10:10:02,141 SUCCEEDED: Unchecked word solutions.
+2016-03-25 10:10:02,141 Operation started: Checking word solutions for reqs.
+2016-03-25 10:10:02,143 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-25 10:10:02,143 Operation started: Uploading solution via git
+2016-03-25 10:10:05,456 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-25 10:10:05,456 Operation started: Twitter publication.
+2016-03-25 10:10:05,557 Starting new HTTPS connection (1): api.twitter.com
+2016-03-25 10:10:06,344 SUCCEEDED: Posted to Twitter.
+2016-03-25 10:10:06,345 Main args solved.
+2016-03-25 10:10:06,348 Folder hierarchy cleaned.
+2016-03-26 08:40:22,954 Operation started: Patching with git...
+2016-03-26 08:40:23,357 SUCCEEDED: Latest version active.
+2016-03-26 08:40:23,359 Message processed from message dropbox.
+2016-03-26 08:40:23,359 Operation started: generation.
+2016-03-26 08:40:23,370 SUCCEEDED: puzzle generation.
+2016-03-26 08:40:23,370 SUCCEEDED: Twitter publication.
+2016-03-26 08:40:23,370 Operation started: solution generation.
+2016-03-26 08:40:23,470 SUCCEEDED: Unchecked word solutions.
+2016-03-26 08:40:23,470 Operation started: Checking word solutions for reqs.
+2016-03-26 08:40:23,471 SUCCEEDED: Solution generation accounting for reqs.
+2016-03-26 08:40:23,471 Operation started: Uploading solution via git
+2016-03-26 08:40:24,834 SUCCEEDED: Uploaded solutions to GitHub.
+2016-03-26 08:40:24,834 Operation started: Twitter publication.
+2016-03-26 08:40:24,981 Starting new HTTPS connection (1): api.twitter.com
+2016-03-26 08:40:25,782 SUCCEEDED: Posted to Twitter.
+2016-03-26 08:40:25,782 Main args solved.
+2016-03-26 08:40:25,787 Folder hierarchy cleaned.
