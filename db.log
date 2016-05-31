@@ -6471,3 +6471,67 @@
 2016-05-31 13:27:19,547 SUCCEEDED: Printed.
 2016-05-31 13:27:21,860 SUCCEEDED: Uploaded solutions to GitHub.
 2016-05-31 13:27:21,860 Operation started: Twitter publication.
+2016-05-31 13:34:51,859 Operation started: generation.
+2016-05-31 13:34:51,865 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:51,865 Operation started: solution generation.
+2016-05-31 13:34:51,949 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:51,949 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:51,950 Operation started: generation.
+2016-05-31 13:34:51,950 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:51,950 Operation started: solution generation.
+2016-05-31 13:34:52,039 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,039 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,039 Operation started: generation.
+2016-05-31 13:34:52,040 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,040 Operation started: solution generation.
+2016-05-31 13:34:52,127 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,127 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,127 Operation started: generation.
+2016-05-31 13:34:52,127 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,127 Operation started: solution generation.
+2016-05-31 13:34:52,225 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,225 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,226 Operation started: generation.
+2016-05-31 13:34:52,226 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,226 Operation started: solution generation.
+2016-05-31 13:34:52,312 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,312 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,313 Operation started: generation.
+2016-05-31 13:34:52,313 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,313 Operation started: solution generation.
+2016-05-31 13:34:52,411 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,411 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,412 Operation started: generation.
+2016-05-31 13:34:52,412 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,412 Operation started: solution generation.
+2016-05-31 13:34:52,511 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,511 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,511 Operation started: generation.
+2016-05-31 13:34:52,511 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,511 Operation started: solution generation.
+2016-05-31 13:34:52,597 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,597 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,597 Operation started: generation.
+2016-05-31 13:34:52,598 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,598 Operation started: solution generation.
+2016-05-31 13:34:52,694 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,694 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,695 Operation started: generation.
+2016-05-31 13:34:52,695 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,695 Operation started: solution generation.
+2016-05-31 13:34:52,783 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,783 Operation started: Checking word solutions for reqs.
+2016-05-31 13:34:52,784 Operation started: generation.
+2016-05-31 13:34:52,784 SUCCEEDED: puzzle generation.
+2016-05-31 13:34:52,784 Operation started: solution generation.
+2016-05-31 13:34:52,880 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:34:52,880 Operation started: Checking word solutions for reqs.
+2016-05-31 13:35:09,699 Operation started: generation.
+2016-05-31 13:35:09,704 SUCCEEDED: puzzle generation.
+2016-05-31 13:35:09,705 Operation started: solution generation.
+2016-05-31 13:35:09,814 SUCCEEDED: Unchecked word solutions.
+2016-05-31 13:35:09,814 Operation started: Checking word solutions for reqs.
+2016-05-31 13:35:09,816 SUCCEEDED: Printed.
+2016-05-31 13:35:11,926 SUCCEEDED: Uploaded solutions to GitHub.
+2016-05-31 13:35:11,926 Main args solved.
+2016-05-31 13:35:11,930 Folder hierarchy cleaned.

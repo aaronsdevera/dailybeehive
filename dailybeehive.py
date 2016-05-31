@@ -110,16 +110,26 @@ def solve(opts):
         header = 'Beehive for ' + date + ':' + '\n'
         
         hive = [0] * 5
+        hive[0]='       '+str(letters[1]).upper()+ '\n'
+        hive[1]=str(letters[2]).upper()+'            '+str(letters[3]).upper() + '\n'
+        hive[2]='       '+str(letters[0]).upper()+'       ' + '\n'
+        hive[3]=str(letters[4]).upper()+'            '+str(letters[5]).upper() + '\n'
+        hive[4]='       '+str(letters[6]).upper()+'       '
+        
+        '''
+        hive = [0] * 5
         hive[0]='   \   '+str(letters[1]).upper()+'  /' + '\n'
         hive[1]=str(letters[2]).upper()+'   \    /   '+str(letters[3]).upper() + '\n'
         hive[2]='---(  '+str(letters[0]).upper()+'  )---' + '\n'
         hive[3]=str(letters[4]).upper()+'   /    \   '+str(letters[5]).upper() + '\n'
         hive[4]='    /  '+str(letters[6]).upper()+'   \\'
-        
+        '''
+                
         #footer = '\nALF: ' + str("%.2f" % ALF)
         footer = '\nDIFF: %s (%s sltns)' % (difficulty,len(words))
         
         payload = header + hive[0] + hive [1] + hive[2] + hive[3] + hive[4] + footer
+        #payload = header + hive + footer
         
         print payload
         #os.system('echo "SOLUTIONS,%s,SUPER,%s" >> sol.csv' % (len(words),len(super_words)))
