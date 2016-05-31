@@ -112,7 +112,7 @@ def solve(opts):
         hive = [0] * 5
         hive[0]='       '+str(letters[1]).upper()+ '\n'
         hive[1]=str(letters[2]).upper()+'            '+str(letters[3]).upper() + '\n'
-        hive[2]='       '+str(letters[0]).upper()+'       ' + '\n'
+        hive[2]='      ('+str(letters[0]).upper()+')      ' + '\n'
         hive[3]=str(letters[4]).upper()+'            '+str(letters[5]).upper() + '\n'
         hive[4]='       '+str(letters[6]).upper()+'       '
         
@@ -127,7 +127,7 @@ def solve(opts):
                 
         #footer = '\nALF: ' + str("%.2f" % ALF)
         #footer = '\nDIFF: %s (%s sltns)' % (difficulty,len(words))
-        footer = '\n%s - %s' % (difficulty,len(words))
+        footer = '\n%s:%s' % (difficulty,len(words))
         
         payload = header + hive[0] + hive [1] + hive[2] + hive[3] + hive[4] + footer
         
@@ -169,7 +169,7 @@ def solve(opts):
     if opts['twitter']:
         logging.info('Operation started: Twitter publication.')
         
-        payload+='\nSolved: https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/prod/solutions/beehive'+str(date.replace('/',''))+'.txt'
+        payload+='\nSolved: https://raw.githubusercontent.com/aaronsdevera/dailybeehive/master/' + solutions_file[2:]
         
         import twitter
         from twitter_api_keys import KEYS
