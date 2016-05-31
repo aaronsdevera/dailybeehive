@@ -129,7 +129,6 @@ def solve(opts):
         footer = '\nDIFF: %s (%s sltns)' % (difficulty,len(words))
         
         payload = header + hive[0] + hive [1] + hive[2] + hive[3] + hive[4] + footer
-        #payload = header + hive + footer
         
         print payload
         #os.system('echo "SOLUTIONS,%s,SUPER,%s" >> sol.csv' % (len(words),len(super_words)))
