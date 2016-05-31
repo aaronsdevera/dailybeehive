@@ -1,3 +1,4 @@
 ./twitter_api_keys.py
 *.pyc
 db.log
+twitter_api_keys.py
