@@ -126,7 +126,8 @@ def solve(opts):
         '''
                 
         #footer = '\nALF: ' + str("%.2f" % ALF)
-        footer = '\nDIFF: %s (%s sltns)' % (difficulty,len(words))
+        #footer = '\nDIFF: %s (%s sltns)' % (difficulty,len(words))
+        footer = '\n%s - %s' % (difficulty,len(words))
         
         payload = header + hive[0] + hive [1] + hive[2] + hive[3] + hive[4] + footer
         
