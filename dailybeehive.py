@@ -95,12 +95,9 @@ def solve(opts):
             difficulty = 'EASY'
         
         
-        # GIT
-        os.system('git add ' + solutions_file)
-        os.system('git commit -m "added solutions file"')
-        os.system('git push origin master')
         
-        logging.info('SUCCEEDED: Uploaded solutions to GitHub.')
+        
+       
         
         # PRINT AND PUB
         # 140 character limit
@@ -121,7 +118,6 @@ def solve(opts):
         
         #footer = '\nALF: ' + str("%.2f" % ALF)
         footer = '\nDIFF: %s (%s sltns)' % (difficulty,len(words))
-        footer += '\nSolved: %s' % solution_link
         
         payload = header + hive[0] + hive [1] + hive[2] + hive[3] + hive[4] + footer
         
@@ -131,9 +127,9 @@ def solve(opts):
         logging.info('SUCCEEDED: Printed.')
         
         ## OUTPUT SOLUTIONS
-        #solutions_file = './beehive'+str(date.replace('/',''))+'.txt'
         solutions_file = './solutions/beehive'+str(date.replace('/',''))+'.txt'
         
+        # OUTPUT SOLUTIONS
         f=open(solutions_file, 'w')  
         f.write('Daily Beehive solution for ' + date + ':\n')
         f.close()
@@ -149,8 +145,14 @@ def solve(opts):
         for each in words:
             f.write(each+'\n')
         f.close()
+                
+         # GIT
+        import os
+        os.system('git add ' + solutions_file)
+        os.system('git commit -m "added solutions file"')
+        os.system('git push origin master')
         
-        logging.info('SUCCEEDED: Solution generation accounting for reqs.')
+        logging.info('SUCCEEDED: Uploaded solutions to GitHub.')
         
         
        
