@@ -112,7 +112,7 @@ def solve(opts):
         hive = [0] * 5
         hive[0]='       '+str(letters[1]).upper()+ '\n'
         hive[1]=str(letters[2]).upper()+'            '+str(letters[3]).upper() + '\n'
-        hive[2]='      ('+str(letters[0]).upper()+')      ' + '\n'
+        hive[2]='     ( '+str(letters[0]).upper()+' )     ' + '\n'
         hive[3]=str(letters[4]).upper()+'            '+str(letters[5]).upper() + '\n'
         hive[4]='       '+str(letters[6]).upper()+'       '
         
