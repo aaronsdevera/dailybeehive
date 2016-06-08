@@ -6629,3 +6629,99 @@
 2016-05-31 13:51:50,563 SUCCEEDED: Posted to Twitter.
 2016-05-31 13:51:50,563 Main args solved.
 2016-05-31 13:51:50,567 Folder hierarchy cleaned.
+2016-06-07 22:36:27,884 Operation started: generation.
+2016-06-07 22:36:27,894 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:27,894 Operation started: solution generation.
+2016-06-07 22:36:27,998 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:27,999 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,001 Operation started: generation.
+2016-06-07 22:36:28,002 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,002 Operation started: solution generation.
+2016-06-07 22:36:28,095 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,095 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,096 Operation started: generation.
+2016-06-07 22:36:28,096 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,096 Operation started: solution generation.
+2016-06-07 22:36:28,191 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,192 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,192 Operation started: generation.
+2016-06-07 22:36:28,193 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,193 Operation started: solution generation.
+2016-06-07 22:36:28,287 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,287 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,287 Operation started: generation.
+2016-06-07 22:36:28,288 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,288 Operation started: solution generation.
+2016-06-07 22:36:28,391 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,391 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,391 Operation started: generation.
+2016-06-07 22:36:28,392 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,392 Operation started: solution generation.
+2016-06-07 22:36:28,493 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,493 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,494 Operation started: generation.
+2016-06-07 22:36:28,494 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,494 Operation started: solution generation.
+2016-06-07 22:36:28,586 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,587 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,587 Operation started: generation.
+2016-06-07 22:36:28,587 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,587 Operation started: solution generation.
+2016-06-07 22:36:28,684 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,684 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,684 Operation started: generation.
+2016-06-07 22:36:28,685 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,685 Operation started: solution generation.
+2016-06-07 22:36:28,782 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,782 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,782 Operation started: generation.
+2016-06-07 22:36:28,783 SUCCEEDED: puzzle generation.
+2016-06-07 22:36:28,783 Operation started: solution generation.
+2016-06-07 22:36:28,885 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:36:28,886 Operation started: Checking word solutions for reqs.
+2016-06-07 22:36:28,887 SUCCEEDED: Printed.
+2016-06-07 22:36:30,785 SUCCEEDED: Uploaded solutions to GitHub.
+2016-06-07 22:36:30,785 Operation started: Twitter publication.
+2016-06-07 22:36:30,974 Starting new HTTPS connection (1): api.twitter.com
+2016-06-07 22:36:32,111 SUCCEEDED: Posted to Twitter.
+2016-06-07 22:36:32,111 Main args solved.
+2016-06-07 22:36:32,117 Folder hierarchy cleaned.
+2016-06-07 22:38:40,482 Operation started: generation.
+2016-06-07 22:38:40,491 SUCCEEDED: puzzle generation.
+2016-06-07 22:38:40,491 Operation started: solution generation.
+2016-06-07 22:38:40,589 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:38:40,589 Operation started: Checking word solutions for reqs.
+2016-06-07 22:38:40,590 Operation started: generation.
+2016-06-07 22:38:40,590 SUCCEEDED: puzzle generation.
+2016-06-07 22:38:40,590 Operation started: solution generation.
+2016-06-07 22:38:40,683 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:38:40,683 Operation started: Checking word solutions for reqs.
+2016-06-07 22:38:40,683 Operation started: generation.
+2016-06-07 22:38:40,684 SUCCEEDED: puzzle generation.
+2016-06-07 22:38:40,684 Operation started: solution generation.
+2016-06-07 22:38:40,776 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:38:40,776 Operation started: Checking word solutions for reqs.
+2016-06-07 22:38:40,777 Operation started: generation.
+2016-06-07 22:38:40,777 SUCCEEDED: puzzle generation.
+2016-06-07 22:38:40,777 Operation started: solution generation.
+2016-06-07 22:38:40,869 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:38:40,869 Operation started: Checking word solutions for reqs.
+2016-06-07 22:38:40,870 Operation started: generation.
+2016-06-07 22:38:40,870 SUCCEEDED: puzzle generation.
+2016-06-07 22:38:40,870 Operation started: solution generation.
+2016-06-07 22:38:40,965 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:38:40,965 Operation started: Checking word solutions for reqs.
+2016-06-07 22:38:40,966 Operation started: generation.
+2016-06-07 22:38:40,966 SUCCEEDED: puzzle generation.
+2016-06-07 22:38:40,966 Operation started: solution generation.
+2016-06-07 22:38:41,059 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:38:41,059 Operation started: Checking word solutions for reqs.
+2016-06-07 22:38:41,060 Operation started: generation.
+2016-06-07 22:38:41,060 SUCCEEDED: puzzle generation.
+2016-06-07 22:38:41,060 Operation started: solution generation.
+2016-06-07 22:38:41,160 SUCCEEDED: Unchecked word solutions.
+2016-06-07 22:38:41,161 Operation started: Checking word solutions for reqs.
+2016-06-07 22:38:41,161 SUCCEEDED: Printed.
+2016-06-07 22:38:43,159 SUCCEEDED: Uploaded solutions to GitHub.
+2016-06-07 22:38:43,159 Main args solved.
+2016-06-07 22:38:43,163 Folder hierarchy cleaned.
