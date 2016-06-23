@@ -1,0 +1,39 @@
+Daily Beehive solution for 06/23/16:
+DIFFICULTY: HARD (30 solutions)
+--------------------------------------------
+
+Solutions that use each letter at least once (2):
+excerptor
+exteroceptor
+
+All solutions (30):
+coexert
+cortex
+cox
+ex
+except
+excerpt
+excerpter
+excerptor
+excrete
+excreter
+exec
+exert
+expect
+expert
+expo
+export
+exporter
+exteroceptor
+extort
+extorter
+ox
+oxo
+oxter
+pox
+pretext
+prex
+reexport
+rex
+text
+xerox
