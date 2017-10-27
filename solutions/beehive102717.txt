@@ -1,0 +1,41 @@
+Daily Beehive solution for 10/27/17:
+DIFFICULTY: HARD (32 solutions)
+--------------------------------------------
+
+Solutions that use each letter at least once (2):
+phenixes
+sphinxes
+
+All solutions (32):
+ex
+exes
+exine
+exines
+expense
+expenses
+hex
+hexes
+nix
+nixe
+nixes
+nixie
+nixies
+phenix
+phenixes
+pix
+pixes
+pixie
+pixieish
+pixies
+pixiness
+pixinesses
+sex
+sexes
+sexiness
+sexinesses
+six
+sixes
+sphinx
+sphinxes
+xi
+xis
